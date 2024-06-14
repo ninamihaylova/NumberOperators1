@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\bin\Debug\net8.0\NumberOperators.exe
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\bin\Debug\net8.0\NumberOperators.deps.json
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\bin\Debug\net8.0\NumberOperators.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\bin\Debug\net8.0\NumberOperators.dll
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\bin\Debug\net8.0\NumberOperators.pdb
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\NumberOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\NumberOperators.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\NumberOperators.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\NumberOperators.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\NumberOperators.dll
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\refint\NumberOperators.dll
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\NumberOperators.pdb
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\NumberOperators.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumberOperators\NumberOperators\obj\Debug\net8.0\ref\NumberOperators.dll
